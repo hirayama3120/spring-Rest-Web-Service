@@ -1,5 +1,6 @@
-D:\springworks\spring-Rest-API\src\main\java\com\example\domain\Customer.java
-D:\springworks\spring-Rest-API\src\main\java\com\example\repository\CustomerRepository.java
-D:\springworks\spring-Rest-API\src\main\java\com\example\service\CustomerService.java
-D:\springworks\spring-Rest-API\src\main\java\com\example\controller\CustomerRestController.java
-D:\springworks\spring-Rest-API\src\main\java\com\example\SpringRestApiApplication.java
+D:\springworks\spring-Rest-Web-Service\src\main\java\com\example\domain\Customer.java
+D:\springworks\spring-Rest-Web-Service\src\main\java\com\example\controller\CustomerController.java
+D:\springworks\spring-Rest-Web-Service\src\main\java\com\example\SpringRestApiApplication.java
+D:\springworks\spring-Rest-Web-Service\src\main\java\com\example\web\CustomerForm.java
+D:\springworks\spring-Rest-Web-Service\src\main\java\com\example\service\CustomerService.java
+D:\springworks\spring-Rest-Web-Service\src\main\java\com\example\repository\CustomerRepository.java
