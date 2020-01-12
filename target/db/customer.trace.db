@@ -1,0 +1,8 @@
+2019-11-24 00:31:26 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: テーブル "CUSTOMERS" はすでに存在します
+Table "CUSTOMERS" already exists; SQL statement:
+CREATE table customers(id int primary key auto_increment, first_name varchar(30), last_name varchar(30)) [42101-199]
+2020-01-12 17:29:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: テーブル "CUSTOMERS" はすでに存在します
+Table "CUSTOMERS" already exists; SQL statement:
+CREATE table customers(id int primary key auto_increment, first_name varchar(30), last_name varchar(30)) [42101-199]
